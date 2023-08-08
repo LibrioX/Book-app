@@ -1,8 +1,8 @@
 # Book-app (Jetpack Compose Android)
 
-![6](https://github.com/LibrioX/Book-app/assets/106506074/0e1d60ba-1784-4a79-a50d-329846c8857e)
-![7](https://github.com/LibrioX/Book-app/assets/106506074/cb78baf5-1b07-4d0a-a2f0-75c2800ed009)
-    
+![6](https://github.com/LibrioX/Book-app/assets/106506074/51b7f055-08a8-46e3-9a5a-4add3e151d19)
+![7](https://github.com/LibrioX/Book-app/assets/106506074/53b8b622-b226-4846-bbb8-04ed81efd357)
+
 ### Feature
 - **Search**, Allows users to search books.
 - **Detail**, Allow users to see the detail of books.
